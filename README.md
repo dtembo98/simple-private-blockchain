@@ -215,5 +215,9 @@ You should see in your terminal a message indicating that the server is listenin
 5. Get blocks by address
 <img width="1440" alt="Screenshot 2022-02-20 at 7 38 24 AM" src="https://user-images.githubusercontent.com/37314424/154830655-5bfabe06-92f5-48a2-a5e6-6200d6a11509.png">
 
+6.Validate chain
+
+<img width="1440" alt="Screenshot 2022-02-20 at 8 03 08 AM" src="https://user-images.githubusercontent.com/37314424/154830739-41eb4b6e-0073-4947-923a-1604fb685969.png">
+
 
 
