@@ -210,4 +210,6 @@ You should see in your terminal a message indicating that the server is listenin
 <img width="1440" alt="Screenshot 2022-02-20 at 7 33 11 AM" src="https://user-images.githubusercontent.com/37314424/154830338-3742dc8b-d56d-4aa5-bd73-f6d83971d93a.png">
 
 4. Get Block by hash
+<img width="1440" alt="Screenshot 2022-02-20 at 7 35 31 AM" src="https://user-images.githubusercontent.com/37314424/154830598-c711edc8-2b52-471b-a40c-85e1a33ef108.png">
+
 
