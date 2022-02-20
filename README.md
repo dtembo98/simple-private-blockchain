@@ -207,13 +207,7 @@ You should see in your terminal a message indicating that the server is listenin
 <img width="1440" alt="Screenshot 2022-02-20 at 7 25 13 AM" src="https://user-images.githubusercontent.com/37314424/154829846-5c81ec1f-2ef1-4928-8690-bc80c2d08298.png">
 
 3. Get Block by height
-![Uploading Screenshot 2022-0
-2-20 at 7.33.11 AM.png…]()
+<img width="1440" alt="Screenshot 2022-02-20 at 7 33 11 AM" src="https://user-images.githubusercontent.com/37314424/154830338-3742dc8b-d56d-4aa5-bd73-f6d83971d93a.png">
+
 4. Get Block by hash
-![Uploading Screenshot 2022-02-20 at 7.35.31 AM.png…]()
 
-
-5. 
-6. 
-7. 
-8. 
