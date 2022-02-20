@@ -212,4 +212,8 @@ You should see in your terminal a message indicating that the server is listenin
 4. Get Block by hash
 <img width="1440" alt="Screenshot 2022-02-20 at 7 35 31 AM" src="https://user-images.githubusercontent.com/37314424/154830598-c711edc8-2b52-471b-a40c-85e1a33ef108.png">
 
+5. Get blocks by address
+<img width="1440" alt="Screenshot 2022-02-20 at 7 38 24 AM" src="https://user-images.githubusercontent.com/37314424/154830655-5bfabe06-92f5-48a2-a5e6-6200d6a11509.png">
+
+
 
