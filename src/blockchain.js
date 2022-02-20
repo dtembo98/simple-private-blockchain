@@ -132,7 +132,7 @@ class Blockchain {
         await self._addBlock(block);
         return resolve(block);
       }
-      return reject(null);
+      return reject("cannot add block after 5 minutes of request");
     });
   }
 
