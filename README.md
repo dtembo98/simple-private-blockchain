@@ -199,3 +199,10 @@ You should see in your terminal a message indicating that the server is listenin
      ![Request: http://localhost:8000/submitstar](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/April/5ca365d3_signing-message/signing-message.png)
 6. Retrieve Stars owned by me
     ![Request: http://localhost:8000/blocks/<WALLET_ADDRESS>](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/April/5ca362b9_retrieve-stars/retrieve-stars.png)
+## Test Results
+1. First request of ownership sending your wallet address:
+<img width="1440" alt="Screenshot 2022-02-20 at 7 23 33 AM" src="https://user-images.githubusercontent.com/37314424/154829816-9a6ee3d9-b626-4f31-ba29-b75a245c9fa7.png">
+
+2. Submit Star
+<img width="1440" alt="Screenshot 2022-02-20 at 7 25 13 AM" src="https://user-images.githubusercontent.com/37314424/154829846-5c81ec1f-2ef1-4928-8690-bc80c2d08298.png">
+
